@@ -1,8 +1,7 @@
 let searchBox = document.querySelector(".search-box");
 
 function hidebtn () {
-
-    searchBox.classList.toggle("hide")
+  searchBox.classList.toggle("hide")
 }
 
 let menuBtn = document.querySelector("#menu-btn");
